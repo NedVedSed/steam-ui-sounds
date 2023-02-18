@@ -3,7 +3,7 @@
   "description": "This pack plays a Fire Emblem Premium Arrange II remix of the Garreg Mach Monastery main theme in Fire Emblem: Three Houses.",
   "author": "NedVedSed",
   "version": "v1.0",
-  "manifest_version": 2,
+  "manifest_version": 1,
   "music": true,
   "ignore": [],
   "mappings": {}
